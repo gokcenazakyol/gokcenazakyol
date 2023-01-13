@@ -8,6 +8,3 @@ I'm a student who is deeply interested in Machine Learning, Deep Learning and Co
 - 🔭 I’m studying at Hacettepe University Artificial Intelligence Engineering Department.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 📫 How to reach me: gokcenazzakyol@gmail.com
-
-![4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2](https://user-images.githubusercontent.com/74296174/212369647-9620fdb1-eb09-44d1-8704-c4b4e7f8d854.gif)
-
