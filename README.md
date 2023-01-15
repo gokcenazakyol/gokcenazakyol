@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Gökçenaz Akyol.👩🏽‍💻
+<img src="https://github.com/gokcenazakyol&style=flat-square&color=pink" alt=""/>
+
 
 ![giphy](https://user-images.githubusercontent.com/74296174/212367779-52aa1e9c-eff0-41fe-b994-d09f6a0f4050.gif)
 
