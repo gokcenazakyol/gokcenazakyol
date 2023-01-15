@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gökçenaz Akyol.👩🏽‍💻
 
-<img src="https://komarev.com/ghpvc/?gokcenazakyol&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=gokcenazakyol&style=flat-square&color=blue" alt=""/>
 
 
 
@@ -13,6 +13,8 @@ I'm a student who is deeply interested in Machine Learning, Deep Learning and Co
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 📫 How to reach me: gokcenazzakyol@gmail.com
 
+
+#### Connect With Me
 <div id="badges">
   <a href="https://www.linkedin.com/in/gökçenaz-akyol-a11bb41b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
