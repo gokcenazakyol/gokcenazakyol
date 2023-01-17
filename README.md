@@ -13,8 +13,6 @@ I'm a student who is deeply interested in Machine Learning, Deep Learning and Co
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 📫 How to reach me: gokcenazzakyol@gmail.com
 
-#### My Latest Blog on Medium
-[![Gökçenaz Akyol Medium](https://github-readme-medium.vercel.app/?username=gokcenazakyol)](https://medium.com/@gokcenazakyol)
 
 
 #### Connect With Me
