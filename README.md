@@ -23,7 +23,4 @@ I'm a student who is deeply interested in Machine Learning, Deep Learning and Co
   <a href="https://medium.com/@gokcenazakyol">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://twitter.com/Kuyruklubela">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
