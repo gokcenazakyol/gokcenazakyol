@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/gokcenaz-akyol-a11bb41b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokcenaz-akyol-a11bb41b8/" height="30" width="40" /></a>
 <a href="https://medium.com/@gokcenazakyol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gokcenazakyol" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gokcenazakyol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gokcenazakyol" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCuWp7VtlIBYKtz0C8Gx2zdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gokcenazakyol" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gokcenazakyol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokcenazakyol" height="30" width="40" /></a>
 </p>
 
