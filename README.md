@@ -1,7 +1,8 @@
 [![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://gokcenazakyol.github.io)
 
 <h1 align="center">Hi 👋, I'm Gokcenaz</h1>
-<h3 align="center">I'm an artificial intelligence engineering student at Hacettepe University.</h3>
+<h3 align="center">I'm an artificial intelligence researcher at The Scientific and Technological Research Council of Turkey
+.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/1VEnfKkMGikAAAAd/lofi-girl-music.gif">
 
