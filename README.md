@@ -34,4 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokcenazakyol&" alt="gokcenazakyol" /></p>
 
-[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=harshalrj25)](https://medium.com/@harshalrj25)
