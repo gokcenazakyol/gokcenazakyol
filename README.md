@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokcenazakyol&show_icons=true&locale=en" alt="gokcenazakyol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokcenazakyol&" alt="gokcenazakyol" /></p>
+
+[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=harshalrj25)](https://medium.com/@harshalrj25)
