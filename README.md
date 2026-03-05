@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [my website](https://gokcenazakyol.github.io)
-
 - 📝 I regularly write articles on [my medium page](https://medium.com/@gokcenazakyol)
 
 - 📫 How to reach me **gokcenazzakyol@gmail.com**
